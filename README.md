@@ -1,5 +1,4 @@
 # Traffic-light 
-
 public class TrafficLight {
     private String color;
     private int duration;
